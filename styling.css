@@ -1,0 +1,32 @@
+body {
+  background-color: #292929;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  color: #ffa31a;
+  position: relative;
+  left: 10px;
+  letter-spacing: 4px;
+  font-size: 1.7rem;
+}
+
+.one {
+  color: #808080;
+  background-color: #1b1b1b;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+}
+
+.two {
+  color: #ffa31a;
+  letter-spacing: 1px;
+  font-size: 0.7rem;
+}
+
+.three {
+  color: #808080;
+  background-color: #1b1b1b;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+}
